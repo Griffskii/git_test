@@ -1,1 +1,1 @@
-# git_test
+This is Korein's first git project. :)
